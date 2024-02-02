@@ -1,6 +1,3 @@
-//System.out.println("\f");new  ProcessBuilder("cmd","/c","cls").inheritIO().start().waitFor();
-package com.thippeswamy.app.projectCompleted.comp;
-
 import java.io.IOException;
 import java.util.Scanner;
 
